@@ -1,0 +1,47 @@
+[
+  {
+    "ticker": "SPY",
+    "timeframe": "1h",
+    "name": "SPY"
+  },
+  {
+    "ticker": "GBPUSD=X",
+    "timeframe": "15m",
+    "name": "GBPUSD=X"
+  },
+  {
+    "ticker": "QQQ",
+    "timeframe": "15m",
+    "name": "QQQ"
+  },
+  {
+    "ticker": "EURUSD=X",
+    "timeframe": "1h",
+    "name": "EURUSD=X"
+  },
+  {
+    "ticker": "AAPL",
+    "timeframe": "1h",
+    "name": "AAPL"
+  },
+  {
+    "ticker": "GC=F",
+    "timeframe": "15m",
+    "name": "GC=F"
+  },
+  {
+    "ticker": "ES=F",
+    "timeframe": "15m",
+    "name": "ES=F"
+  },
+  {
+    "ticker": "EURGBP",
+    "timeframe": "15m",
+    "name": "EURGBP"
+  },
+  {
+    "ticker": "GBPNZD",
+    "timeframe": "15m",
+    "name": "GBPNZD"
+  }
+]
